@@ -1,9 +1,6 @@
-See the Assessment Guide for information on how to interpret this report.
+Score: 95/100
 
-Want to receive personalized feedback on this submission?
-You can pay to have a teaching assistant read and provide
-personalized feedback on your submission at https://mooc.codepost.io.
-
+```
 ASSESSMENT SUMMARY
 
 Compilation:  FAILED (0 errors, 2 warnings)
@@ -704,3 +701,5 @@ Total: 16/16 tests passed!
 
 
 ================================================================
+
+```
